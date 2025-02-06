@@ -10,4 +10,4 @@ I did have a bit of trouble making everything look clean.
 
 Instructions:
 To run the program, simply open a powershell window in the folder
-and run the command "py french_numbers.py"
+and run the command "py frenchNumbers.py"
